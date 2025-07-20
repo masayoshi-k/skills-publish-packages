@@ -2,7 +2,7 @@ name: Publish to Docker
 on:
   push:
     branches:
-      - mainhttps://github.com/masayoshi-k
+      - main
 permissions:
   packages: write
   contents: read
